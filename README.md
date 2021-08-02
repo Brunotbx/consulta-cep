@@ -10,3 +10,6 @@
   <li>Javascript</li>
   <li>Design Patterns</li>
 </ul>
+
+![Captura de tela 2021-08-01 221439](https://user-images.githubusercontent.com/68288940/127792116-e7b15ab0-b709-4eaf-83ae-1c303f5f117e.jpg)
+
